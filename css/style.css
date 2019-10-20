@@ -1,0 +1,13 @@
+.box{
+	min-height:50px;
+	background-color: red;
+	font-size:30px;
+	color:black;
+	margin-top:15px;
+}
+.aqua{
+	background-color: aqua;
+}
+.blue{
+	background-color: blue;
+}
